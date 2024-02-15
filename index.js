@@ -5,21 +5,21 @@ const team = [
       fullName: "Anna Kendrick",
       jobTitle: "Front-end Ninja",
       bio: "Bibliophile, loves to dive into fictional worlds, ships JS code like brownies",
-      avatar: "/session5-takehome/avataaars/annakendrick.svg",
+      avatar: "./annakendrick.svg",
     },
     {
       id: "harry",
       fullName: "Harry Fawn",
       jobTitle: "Illustrator",
       bio: "Creates new illustrations each week, will kill for coffee, and loves beaches",
-      avatar: "/session5-takehome/avataaars/harryfn.svg",
+      avatar: "./harryfn.svg",
     },
     {
       id: "sofia",
       fullName: "Sofia Sultan",
       jobTitle: "Backend Engineer",
       bio: "Donuts over waffles. Martinis over whiskeys. Typescript over anything.",
-      avatar: "/session5-takehome/avataaars/sofiasul.svg",
+      avatar: "./sofiasul.svg",
     },
   ];
   
